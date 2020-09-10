@@ -8,8 +8,7 @@ and all the features of the project are usable across modern desktop computers, 
 - CSS 
 - ES6
 
-# * [Instructions](#instructions)
-
+# * [Instructions](##Instructions)
 ## Instructions
 
 - The project contains some HTML and CSS styles for the dynamic version of the landing page project.
