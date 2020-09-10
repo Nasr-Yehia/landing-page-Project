@@ -27,13 +27,13 @@ This was done by modifying HTML and CSS files, and was primarily a JavaScript fi
     • Use the 'onscroll' event when the user passes down the fold of the page.
     • Use the 'onclick' event to listen to the onscroll event.
 
-# Languages used
-- HTML
-- CSS 
-- ES6
-
 # What I've learned:
 #### I learned to combine my skills in HTML, CSS and JavaScript in this project.
     • Learn to work perfectly in future projects.
     • Find How many files do I need in my projects.
     • Find out how many JavaScript functions I will need to complete my project.
+
+# Languages used
+- HTML
+- CSS 
+- ES6
