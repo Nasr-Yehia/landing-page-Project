@@ -3,7 +3,7 @@ This is readme for the interactive landing page project,
 Create a dynamically mobile list based on page sections displayed on the HTML page,
 and all the features of the project are usable across modern desktop computers, tablets, and phone browsers.
 
-## # Languages used
+### Languages used
 - HTML
 - CSS 
 - ES6
