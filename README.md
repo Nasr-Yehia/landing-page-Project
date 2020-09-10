@@ -8,7 +8,7 @@ and all the features of the project are usable across modern desktop computers, 
 - CSS 
 - ES6
 
-* [Instructions](#instructions)
+# * [Instructions](#instructions)
 
 ## Instructions
 
