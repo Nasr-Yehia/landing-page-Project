@@ -2,11 +2,6 @@
 This is readme for the interactive landing page project,
 and all the features of the project are usable across modern desktop computers, tablets, and phone browsers.
 
-# Languages used
-- HTML
-- CSS 
-- ES6
-
 # Instructions 
 ## [Instructions](#instructions)
 The project contains some HTML and CSS styles for the dynamic version of the landing page project.
@@ -31,6 +26,11 @@ This was done by modifying HTML and CSS files, and was primarily a JavaScript fi
     • Add the button class to the "CSS" file.
     • Use the 'onscroll' event when the user passes down the fold of the page.
     • Use the 'onclick' event to listen to the onscroll event.
+
+# Languages used
+- HTML
+- CSS 
+- ES6
 
 # What I've learned:
 #### I learned to combine my skills in HTML, CSS and JavaScript in this project.
