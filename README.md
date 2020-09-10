@@ -2,13 +2,13 @@
 This is readme for the interactive landing page project,
 and all the features of the project are usable across modern desktop computers, tablets, and phone browsers.
 
-### Languages used
+# Languages used
 - HTML
 - CSS 
 - ES6
 
-# *[Instructions](#instructions)
-## Instructions
+*[Instructions](#instructions)
+# Instructions
 - The project contains some HTML and CSS styles for the dynamic version of the landing page project.
 - This was done by modifying HTML and CSS files, and was primarily a JavaScript file 'app.ja'.
 
