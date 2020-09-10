@@ -12,8 +12,8 @@ and all the features of the project are usable across modern desktop computers, 
 - The project contains some HTML and CSS styles for the dynamic version of the landing page project.
 - This was done by modifying HTML and CSS files, and was primarily a JavaScript file 'app.ja'.
 
-### - Add linking 'app.ja' to Index.html file.
-### - Build html file and contains 5 content sections. 
+### * Add linking 'app.ja' to Index.html file.
+###  Build html file and contains 5 content sections. 
 ### - Create a global variables for get sections, and create a global variable for get navbar list by ID.
 ### - Create a top navigation bar menu function based on "data-nav" a custom attribute for each section. Using iteration ('for of').
 ### - Add a function to distinguish between sections in the view. As you navigate across the page, the active section in the view/port closest to the top of the other sections is highlighted, using "getBoundingClientRect".
