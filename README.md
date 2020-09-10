@@ -36,7 +36,7 @@ and all the features of the project are usable across modern desktop computers, 
     • Use the 'onclick' event to listen to the onscroll event.
 
 # What I've learned:
-I learned to combine my skills in HTML, CSS and JavaScript in this project.
+## I learned to combine my skills in HTML, CSS and JavaScript in this project.
     • Learn to work perfectly in future projects.
     • Find How many files do I need in my projects.
     • Find out how many JavaScript functions I will need to complete my project.
