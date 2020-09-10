@@ -5,7 +5,7 @@ and all the features of the project are usable across modern desktop computers, 
 # Instructions 
 ## [Instructions](#instructions)
 The project contains some HTML and CSS styles for the dynamic version of the landing page project.
-This was done by modifying HTML and CSS files, and was primarily a JavaScript file 'app.ja'.
+This was done by modifying HTML and CSS files, and was primarily a JavaScript file 'app.js'.
 
 #### - Add linking 'app.ja' to Index.html file.
 #### - Build html file and contains 5 content sections. 
