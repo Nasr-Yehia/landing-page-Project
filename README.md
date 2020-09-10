@@ -8,7 +8,7 @@ and all the features of the project are usable across modern desktop computers, 
 - ES6
 
 # Instructions 
-*[Instructions](#instructions)
+## [Instructions](#instructions)
 
 - The project contains some HTML and CSS styles for the dynamic version of the landing page project.
 - This was done by modifying HTML and CSS files, and was primarily a JavaScript file 'app.ja'.
